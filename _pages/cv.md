@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * B.E. in Electrical Engineering (3.98/4), Tribhuvan University, Nepal (2015-2019)
   * Relevant Coursework: Power System Analysis, Control Systems and Theory, Transmission and Distribution Design, Power Electronics, Switchgear and Protection, FACTs       devices, High Voltage Engineering
@@ -42,7 +42,7 @@ Key Skills
 For more info
 ======
 * Checkout other tabs from the top of the page
-* Any suggestion or feedback, feel free to contact me. This site is still in progress so not all information is in place.
+* Any suggestion or feedback, feel free to contact me. This site is still in progress so not all information is in place. -->
 
 <!-- Publications
 ======
