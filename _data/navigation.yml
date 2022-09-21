@@ -1,19 +1,23 @@
 # main links links
 main:
-  - title: "Experience"
-    url: /Experience/
-
-  - title: "Affiliations"
-    url: /Affiliations/    
-
-  - title: "Professional Development"
-    url: /Professional development/    
-    
   - title: "Publications"
-    url: /Publications/
-        
-  - title: "Posters"
-    url: /Posters/
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
     
-  - title: "Projects"
-    url: /Projects/
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
+
