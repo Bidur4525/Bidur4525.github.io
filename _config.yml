@@ -87,7 +87,7 @@ author:
   location         : "Brookings South Dakota"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=OnNpRPYAAAAJ.com"
+  googlescholar    : "https://scholar.google.com/citations?user=OnNpRPYAAAAJ&hl=en"
   email            : "Bidur.Poudel@jacks.sdstate.edu"
   researchgate     : "https://www.researchgate.net/profile/Bidur-Poudel"
   uri              :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/bidur-poudel-820623192/"
+  linkedin         : "https://www.linkedin.com/in/bidur-poudel-820623192"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
