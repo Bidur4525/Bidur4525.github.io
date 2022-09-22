@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects.md"
+title: "Projects"
 permalink: /Projects.md/
 author_profile: true
 ---
