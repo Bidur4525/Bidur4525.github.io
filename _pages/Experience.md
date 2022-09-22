@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Experience
-======
 * Graduate Research Assistant, Microgrid Laboratory, SDSU, USA (Aug. 2021 - Current)
   * Carried out a comparative analysis of state and parameter estimation techniques  for power system frequency dynamics
   * Evaluated computation time requirement of estimation filter {Kalman filter, extended Kalman filter, unscented Kalman filter and moving horizon estimation} for          power system frequency dynamics using Opal-RT real-time simulator
