@@ -12,7 +12,7 @@ Remarks
 
 Published Publication
 ======
-* B. Poudel, P. Aslami, T. Aryal, N. Bhujel , A. Rai, M.Rauniyar, H. M. Rekabdarkolaee, F. Andrade, T. M. Hansen, and R. Tonkoski “Comparative Analysis of State and Parameter Estimation Techniques for Power System Frequency Dynamics,” in \textit{IEEE Symposium on Power Electronics, Electrical Drives, Automation and Motion (SPEEDAM) 2022}, Amalfi Coast, Italy, 8 pages, June 2022.
+* B. Poudel, P. Aslami, T. Aryal, N. Bhujel , A. Rai, M.Rauniyar, H. M. Rekabdarkolaee, F. Andrade, T. M. Hansen, and R. Tonkoski “Comparative Analysis of State and Parameter Estimation Techniques for Power System Frequency Dynamics,” in IEEE Symposium on Power Electronics, Electrical Drives, Automation and Motion (SPEEDAM) 2022, Amalfi Coast, Italy, 8 pages, June 2022.
     * Eligible for Publication by IEEE Industry Applications Society (IAS) journal with modification
 * B. Poudel and S. Kunwar, “Simulation of hybrid micro-grid with pv, wind and micro-hydro using d-elc in an isolated system,” International Journal of Innovations in       Engineering Research and Technology, vol. 7, no. 10, 2020.
 
