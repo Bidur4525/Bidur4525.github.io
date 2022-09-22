@@ -7,9 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bidur Poudel"
+-title                    : "Your Name / Site Title"
+-title                    : "Bidur Poudel"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Bidur4525"
 description              : &description "Masters student in electric power engineering at South Dakota State University (SDSU)"
 url                      : https://Bidur4525.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,12 +84,12 @@ author:
   name             : "Bidur Poudel"
   avatar           : "Bidur.png"
   bio              : "Masters student in electric power engineering at South Dakota State University (SDSU)"
-  location         : "Brookings, South Dakota"
+  location         : "Brookings South Dakota"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=OnNpRPYAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=OnNpRPYAAAAJ.com"
   email            : "Bidur.Poudel@jacks.sdstate.edu"
-  researchgate     : "https://www.researchgate.net/profile/Bidur-Poudel"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Bidur-Poudel"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/bidur-poudel-820623192"
+  linkedin         : "https://www.linkedin.com/in/bidur-poudel-820623192/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -175,7 +176,7 @@ kramdown:
 
 # Collections
 collections:
-   teaching:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
