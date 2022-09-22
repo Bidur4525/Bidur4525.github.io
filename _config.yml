@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bidur Poudel"
 title_separator          : "-"
-name                     : &name "Bidur Poudel"
+name                     : &name "Your Name"
 description              : &description "Masters student in electric power engineering at South Dakota State University (SDSU)"
 url                      : https://Bidur4525.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
