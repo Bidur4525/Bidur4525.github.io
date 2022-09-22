@@ -58,7 +58,7 @@ Education
 * B.E. in Electrical Engineering (3.98/4), Tribhuvan University, Nepal (2015-2019)
   * Relevant Coursework: Power System Analysis, Control Systems and Theory, Transmission and Distribution Design, Power Electronics, Switchgear and Protection, FACTs       devices, High Voltage Engineering
   * Thesis Title: Simulation of hybrid microgrid with photovoltaic, wind and micro-hydro using discrete electronic load controller (D-ELC) in an isolated system
-* M.S. in Electrical Engineering ((3.98/4), SDSU, USA (Expected Graduation: May, 2023)
+* M.S. in Electrical Engineering (4/4), SDSU, USA (Expected Graduation: May, 2023)
   * Advisor: Dr. Timothy M. Hansen (EECS Department - SDSU)
   * Co-advisor: Dr. Reinaldo Tonkoski (University of Maine)
   * Relevant Coursework: Advanced Power Electronics and Control, Computational Data Analysis of Power System, Photovoltaic Systems Engineering, High-Performance           Computing,  Statistical Programming
