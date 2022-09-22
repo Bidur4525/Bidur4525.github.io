@@ -7,8 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
--title                    : "Your Name / Site Title"
--title                    : "Bidur Poudel"
+title                    : "Bidur Poudel"
 title_separator          : "-"
 name                     : &name "Bidur4525"
 description              : &description "Masters student in electric power engineering at South Dakota State University (SDSU)"
