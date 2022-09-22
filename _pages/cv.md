@@ -42,7 +42,7 @@ Education
  For more info
 ======
 * Checkout other tabs from the top of the page
-* Any suggestion or feedback, feel free to contact me. This site is still in progress so not all information is in place. --> -->
+* Any suggestion or feedback, feel free to contact me. This site is still in progress so not all information is in place.
 
  Publications
 ======
